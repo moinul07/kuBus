@@ -43,8 +43,10 @@ img{
     font-size: 20px;
 }   
 .header_item ul li a:hover{
-    color: rgb(88, 138, 231);
-    text-decoration: underline;
+    border-radius: 25px;
+    background-color: rgb(88, 138, 231);
+    /* background-color: #359381; */
+    color: #fff;
 }
 .user_logo{
     color: #fff;
